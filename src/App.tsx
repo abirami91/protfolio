@@ -32,6 +32,13 @@ function App() {
           </a>
         </div>
 
+         <div className="hero-image">
+        <img
+          src="/protfolio/profile.jpg"
+          alt="Abirami Sridharan"
+        />
+      </div>
+
         <div className="tags">
           <span>Bosch Radar Gen6/Gen7</span>
           <span>ADAS Camera Systems</span>
