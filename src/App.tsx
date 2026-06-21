@@ -22,7 +22,8 @@ function App() {
         </p>
 
         <div className="actions">
-          <a className="primary" href="/Abirami_Sridharan_CV.pdf">
+          <a className="primary"
+           href="/protfolio/Abirami_Sridharan_cv.pdf">
             Download CV
           </a>
 
